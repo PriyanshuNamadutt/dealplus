@@ -1,0 +1,175 @@
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"23:48:08"}
+{"level":"info","message":"📦 Environment: development","timestamp":"23:48:08"}
+{"level":"info","message":"::1 - - [07/Jun/2026:18:19:09 +0000] \"GET /api/health HTTP/1.1\" 200 258 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"23:49:09"}
+{"level":"error","message":"[404] Route not found: /favicon.ico — GET /favicon.ico","timestamp":"23:49:09"}
+{"level":"info","message":"::1 - - [07/Jun/2026:18:19:09 +0000] \"GET /favicon.ico HTTP/1.1\" 404 869 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"23:49:09"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"00:08:55"}
+{"level":"info","message":"📦 Environment: development","timestamp":"00:08:55"}
+{"level":"error","message":"[404] Route not found: / — GET /","timestamp":"00:09:33"}
+{"level":"info","message":"::1 - - [07/Jun/2026:18:39:33 +0000] \"GET / HTTP/1.1\" 404 847 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"00:09:33"}
+{"level":"error","message":"[404] Route not found: /favicon.ico — GET /favicon.ico","timestamp":"00:09:33"}
+{"level":"info","message":"::1 - - [07/Jun/2026:18:39:33 +0000] \"GET /favicon.ico HTTP/1.1\" 404 869 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"00:09:33"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"00:11:11"}
+{"level":"info","message":"📦 Environment: development","timestamp":"00:11:11"}
+{"level":"info","message":"::1 - - [07/Jun/2026:18:41:55 +0000] \"GET /api/health HTTP/1.1\" 200 258 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"00:11:55"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"00:28:18"}
+{"level":"info","message":"📦 Environment: development","timestamp":"00:28:18"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"14:33:54"}
+{"level":"info","message":"📦 Environment: development","timestamp":"14:33:54"}
+{"level":"info","message":"::1 - - [08/Jun/2026:09:03:56 +0000] \"GET /api/health HTTP/1.1\" 200 257 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"14:33:56"}
+{"level":"info","message":"Cache MISS: search:iPhone 15:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:03:42"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:03:42"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:03:42"}
+{"level":"info","message":"Cache SET: search:iPhone 15:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:03:42"}
+{"level":"info","message":"::1 - - [08/Jun/2026:09:33:42 +0000] \"GET /api/search?q=iPhone+15&sortBy=price_asc HTTP/1.1\" 200 1414 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"15:03:42"}
+{"level":"info","message":"::1 - - [08/Jun/2026:09:33:42 +0000] \"GET /api/search/suggestions?q=iPhone%2015 HTTP/1.1\" 200 44 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"15:03:42"}
+{"level":"info","message":"Cache HIT: search:iPhone 15:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:04:43"}
+{"level":"info","message":"::1 - - [08/Jun/2026:09:34:43 +0000] \"GET /api/search?q=iPhone+15&sortBy=price_asc HTTP/1.1\" 200 1414 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"15:04:43"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"15:24:07"}
+{"level":"info","message":"📦 Environment: test","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/health HTTP/1.1\" 200 250 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/search HTTP/1.1\" 400 122 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"Cache MISS: search:iPhone:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:24:07"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:24:07"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:24:07"}
+{"level":"info","message":"Cache SET: search:iPhone:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/search?q=iPhone HTTP/1.1\" 200 1402 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"Cache MISS: search:Sony:{\"sortBy\":\"rating_desc\",\"page\":1}","timestamp":"15:24:07"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:24:07"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:24:07"}
+{"level":"info","message":"Cache SET: search:Sony:{\"sortBy\":\"rating_desc\",\"page\":1} (TTL 300s)","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/search?q=Sony&sortBy=rating_desc HTTP/1.1\" 200 1384 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"Cache MISS: search:headphones:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:24:07"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:24:07"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:24:07"}
+{"level":"info","message":"Cache SET: search:headphones:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/search?q=headphones&category=Electronics HTTP/1.1\" 200 1419 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/search?q=test&sortBy=invalid HTTP/1.1\" 400 120 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/search/suggestions?q=iph HTTP/1.1\" 200 56 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/stores HTTP/1.1\" 200 1387 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/stores?active=true HTTP/1.1\" 200 860 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/stores/unknownstore HTTP/1.1\" 404 44 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"POST /api/alerts HTTP/1.1\" 201 295 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"POST /api/alerts HTTP/1.1\" 400 123 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"POST /api/alerts HTTP/1.1\" 400 283 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"error","message":"[404] Route not found: /api/nonexistent — GET /api/nonexistent","timestamp":"15:24:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:54:07 +0000] \"GET /api/nonexistent HTTP/1.1\" 404 863 \"-\" \"-\"","timestamp":"15:24:07"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"15:26:10"}
+{"level":"info","message":"📦 Environment: test","timestamp":"15:26:10"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:10 +0000] \"GET /api/health HTTP/1.1\" 200 248 \"-\" \"-\"","timestamp":"15:26:10"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:10 +0000] \"GET /api/search HTTP/1.1\" 400 122 \"-\" \"-\"","timestamp":"15:26:10"}
+{"level":"info","message":"Cache MISS: search:iPhone:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:26:11"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:26:11"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:26:11"}
+{"level":"info","message":"Cache SET: search:iPhone:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/search?q=iPhone HTTP/1.1\" 200 1402 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"Cache MISS: search:Sony:{\"sortBy\":\"rating_desc\",\"page\":1}","timestamp":"15:26:11"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:26:11"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:26:11"}
+{"level":"info","message":"Cache SET: search:Sony:{\"sortBy\":\"rating_desc\",\"page\":1} (TTL 300s)","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/search?q=Sony&sortBy=rating_desc HTTP/1.1\" 200 1384 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"Cache MISS: search:headphones:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:26:11"}
+{"level":"warn","message":"RAINFOREST_API_KEY not set — returning mock Amazon data","timestamp":"15:26:11"}
+{"level":"warn","message":"SERPAPI_KEY not set — returning mock Google Shopping data","timestamp":"15:26:11"}
+{"level":"info","message":"Cache SET: search:headphones:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/search?q=headphones&category=Electronics HTTP/1.1\" 200 1419 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/search?q=test&sortBy=invalid HTTP/1.1\" 400 120 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/search/suggestions?q=iph HTTP/1.1\" 200 56 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/stores HTTP/1.1\" 200 1387 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/stores?active=true HTTP/1.1\" 200 860 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/stores/unknownstore HTTP/1.1\" 404 44 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"POST /api/alerts HTTP/1.1\" 201 295 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"POST /api/alerts HTTP/1.1\" 400 123 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"POST /api/alerts HTTP/1.1\" 400 283 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"error","message":"[404] Route not found: /api/nonexistent — GET /api/nonexistent","timestamp":"15:26:11"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:09:56:11 +0000] \"GET /api/nonexistent HTTP/1.1\" 404 863 \"-\" \"-\"","timestamp":"15:26:11"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"15:37:32"}
+{"level":"info","message":"📦 Environment: test","timestamp":"15:37:32"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:32 +0000] \"GET /api/health HTTP/1.1\" 200 248 \"-\" \"-\"","timestamp":"15:37:32"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:32 +0000] \"GET /api/search HTTP/1.1\" 400 122 \"-\" \"-\"","timestamp":"15:37:32"}
+{"level":"info","message":"Cache MISS: search:iPhone:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:37:32"}
+{"level":"info","message":"Cache SET: search:iPhone:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:37:35"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:35 +0000] \"GET /api/search?q=iPhone HTTP/1.1\" 200 24658 \"-\" \"-\"","timestamp":"15:37:35"}
+{"level":"info","message":"Cache MISS: search:Sony:{\"sortBy\":\"rating_desc\",\"page\":1}","timestamp":"15:37:35"}
+{"level":"info","message":"Cache MISS: search:headphones:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"15:37:40"}
+{"level":"error","message":"Google Shopping adapter failed: timeout of 10000ms exceeded","timestamp":"15:37:45"}
+{"level":"info","message":"Cache SET: search:Sony:{\"sortBy\":\"rating_desc\",\"page\":1} (TTL 300s)","timestamp":"15:37:45"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:45 +0000] \"GET /api/search?q=Sony&sortBy=rating_desc HTTP/1.1\" 200 27967 \"-\" \"-\"","timestamp":"15:37:45"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"GET /api/search?q=test&sortBy=invalid HTTP/1.1\" 400 120 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"GET /api/search/suggestions?q=iph HTTP/1.1\" 200 56 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"GET /api/stores HTTP/1.1\" 200 1387 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"GET /api/stores?active=true HTTP/1.1\" 200 860 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"GET /api/stores/unknownstore HTTP/1.1\" 404 44 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"POST /api/alerts HTTP/1.1\" 201 295 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"POST /api/alerts HTTP/1.1\" 400 123 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"POST /api/alerts HTTP/1.1\" 400 283 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"error","message":"[404] Route not found: /api/nonexistent — GET /api/nonexistent","timestamp":"15:37:46"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:46 +0000] \"GET /api/nonexistent HTTP/1.1\" 404 863 \"-\" \"-\"","timestamp":"15:37:46"}
+{"level":"error","message":"Google Shopping adapter failed: timeout of 10000ms exceeded","timestamp":"15:37:50"}
+{"level":"info","message":"Cache SET: search:headphones:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"15:37:50"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Jun/2026:10:07:50 +0000] \"GET /api/search?q=headphones&category=Electronics HTTP/1.1\" 200 15043 \"-\" \"-\"","timestamp":"15:37:50"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"15:40:21"}
+{"level":"info","message":"📦 Environment: development","timestamp":"15:40:21"}
+{"level":"info","message":"::1 - - [08/Jun/2026:10:10:40 +0000] \"GET /api/health HTTP/1.1\" 200 256 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"15:40:40"}
+{"level":"info","message":"::1 - - [08/Jun/2026:10:41:22 +0000] \"GET /api/search/suggestions?q=la HTTP/1.1\" 200 70 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"16:11:22"}
+{"level":"info","message":"::1 - - [08/Jun/2026:10:41:22 +0000] \"GET /api/search/suggestions?q=lap HTTP/1.1\" 200 49 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"16:11:22"}
+{"level":"info","message":"::1 - - [08/Jun/2026:10:41:23 +0000] \"GET /api/search/suggestions?q=lapt HTTP/1.1\" 200 49 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"16:11:23"}
+{"level":"info","message":"::1 - - [08/Jun/2026:10:41:24 +0000] \"GET /api/search/suggestions?q=laptops HTTP/1.1\" 200 33 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"16:11:24"}
+{"level":"info","message":"Cache MISS: search:laptops:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"16:11:26"}
+{"level":"info","message":"Cache SET: search:laptops:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"16:11:34"}
+{"level":"info","message":"::1 - - [08/Jun/2026:10:41:34 +0000] \"GET /api/search?q=laptops&sortBy=price_asc HTTP/1.1\" 200 45529 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"16:11:34"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"00:27:21"}
+{"level":"info","message":"📦 Environment: development","timestamp":"00:27:21"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"00:27:22"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"00:28:53"}
+{"level":"info","message":"📦 Environment: development","timestamp":"00:28:53"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"00:28:54"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"00:30:28"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"12:05:16"}
+{"level":"info","message":"📦 Environment: development","timestamp":"12:05:16"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"12:05:17"}
+{"level":"info","message":"🚀 DealPlus API running on http://localhost:5000","timestamp":"12:22:02"}
+{"level":"info","message":"📦 Environment: development","timestamp":"12:22:02"}
+{"level":"info","message":"::1 - - [09/Jun/2026:06:53:32 +0000] \"GET /api/search/suggestions?q=bik HTTP/1.1\" 200 33 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"12:23:32"}
+{"level":"info","message":"::1 - - [09/Jun/2026:06:53:32 +0000] \"GET /api/search/suggestions?q=bikes HTTP/1.1\" 200 33 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"12:23:32"}
+{"level":"info","message":"Cache MISS: search:bikes:{\"sortBy\":\"price_asc\",\"page\":1}","timestamp":"12:23:34"}
+{"level":"info","message":"Cache SET: search:bikes:{\"sortBy\":\"price_asc\",\"page\":1} (TTL 300s)","timestamp":"12:23:39"}
+{"level":"info","message":"::1 - - [09/Jun/2026:06:53:39 +0000] \"GET /api/search?q=bikes&sortBy=price_asc HTTP/1.1\" 200 58688 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"12:23:39"}
+{"level":"info","message":"🚀 DealPlus API → http://localhost:5000","timestamp":"23:17:47"}
+{"level":"info","message":"🌍 Environment  → development","timestamp":"23:17:47"}
+{"level":"info","message":"🗄️  MongoDB      → configured","timestamp":"23:17:47"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"23:17:49"}
+{"level":"info","message":"🚀 DealPlus API → http://localhost:5000","timestamp":"23:18:02"}
+{"level":"info","message":"🌍 Environment  → development","timestamp":"23:18:02"}
+{"level":"info","message":"🗄️  MongoDB      → configured","timestamp":"23:18:02"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"23:18:02"}
+{"level":"info","message":"🚀 DealPlus API → http://localhost:5000","timestamp":"23:20:36"}
+{"level":"info","message":"🌍 Environment  → development","timestamp":"23:20:36"}
+{"level":"info","message":"🗄️  MongoDB      → configured","timestamp":"23:20:36"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"23:20:37"}
+{"level":"info","message":"🚀 DealPlus API    → http://localhost:5000","timestamp":"23:38:36"}
+{"level":"info","message":"🌍 Environment     → development","timestamp":"23:38:36"}
+{"level":"info","message":"🗄️  MongoDB         → configured","timestamp":"23:38:36"}
+{"level":"info","message":"✅ MongoDB connected → ac-brwwjve-shard-00-00.y7dfepe.mongodb.net","timestamp":"23:38:38"}
+{"level":"info","message":"🗄️  Database         → dealplus","timestamp":"23:38:38"}
+{"level":"info","message":"🚀 DealPlus API    → http://localhost:5000","timestamp":"23:52:33"}
+{"level":"info","message":"🌍 Environment     → development","timestamp":"23:52:33"}
+{"level":"info","message":"🗄️  MongoDB         → configured","timestamp":"23:52:33"}
+{"level":"info","message":"✅ MongoDB connected → ac-brwwjve-shard-00-00.y7dfepe.mongodb.net","timestamp":"23:52:35"}
+{"level":"info","message":"🗄️  Database         → dealplus","timestamp":"23:52:35"}
+{"level":"info","message":"🚀 DealPlus API    → http://localhost:5000","timestamp":"23:52:55"}
+{"level":"info","message":"🌍 Environment     → development","timestamp":"23:52:55"}
+{"level":"info","message":"🗄️  MongoDB         → configured","timestamp":"23:52:55"}
+{"level":"info","message":"✅ MongoDB connected → ac-brwwjve-shard-00-00.y7dfepe.mongodb.net","timestamp":"23:52:55"}
+{"level":"info","message":"🗄️  Database         → dealplus","timestamp":"23:52:55"}
+{"level":"info","message":"::1 - - [09/Jun/2026:18:24:29 +0000] \"POST /api/auth/register HTTP/1.1\" 201 344 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0\"","timestamp":"23:54:29"}
+{"level":"info","message":"🚀 DealPlus API    → http://localhost:5000","timestamp":"13:38:01"}
+{"level":"info","message":"🌍 Environment     → development","timestamp":"13:38:01"}
+{"level":"info","message":"🗄️  MongoDB         → configured","timestamp":"13:38:01"}
+{"level":"error","message":"❌ MongoDB connection failed: Server selection timed out after 8000 ms","timestamp":"13:38:09"}
+{"level":"warn","message":"⚠️  Continuing without database — using mock/in-memory data","timestamp":"13:38:09"}
+{"level":"info","message":"🚀 DealPlus API    → http://localhost:5000","timestamp":"15:39:09"}
+{"level":"info","message":"🌍 Environment     → development","timestamp":"15:39:10"}
+{"level":"info","message":"🗄️  MongoDB         → configured","timestamp":"15:39:10"}
+{"level":"info","message":"✅ MongoDB connected → ac-brwwjve-shard-00-00.y7dfepe.mongodb.net","timestamp":"15:39:12"}
+{"level":"info","message":"🗄️  Database         → dealplus","timestamp":"15:39:12"}

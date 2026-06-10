@@ -1,0 +1,16 @@
+{"level":"error","message":"[404] Route not found: /favicon.ico — GET /favicon.ico","timestamp":"23:49:09"}
+{"level":"error","message":"[404] Route not found: / — GET /","timestamp":"00:09:33"}
+{"level":"error","message":"[404] Route not found: /favicon.ico — GET /favicon.ico","timestamp":"00:09:33"}
+{"level":"error","message":"[404] Route not found: /api/nonexistent — GET /api/nonexistent","timestamp":"15:24:07"}
+{"level":"error","message":"[404] Route not found: /api/nonexistent — GET /api/nonexistent","timestamp":"15:26:11"}
+{"level":"error","message":"Google Shopping adapter failed: timeout of 10000ms exceeded","timestamp":"15:37:45"}
+{"level":"error","message":"[404] Route not found: /api/nonexistent — GET /api/nonexistent","timestamp":"15:37:46"}
+{"level":"error","message":"Google Shopping adapter failed: timeout of 10000ms exceeded","timestamp":"15:37:50"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"00:27:22"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"00:28:54"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"00:30:28"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"12:05:17"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"23:17:49"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"23:18:02"}
+{"level":"error","message":"❌ MongoDB connection failed: crypto is not defined","timestamp":"23:20:37"}
+{"level":"error","message":"❌ MongoDB connection failed: Server selection timed out after 8000 ms","timestamp":"13:38:09"}
